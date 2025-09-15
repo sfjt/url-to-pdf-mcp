@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "url-to-pdf": {
+      "command": "node",
+      "args": ["dist/url-to-pdf.js"]
+    }
+  }
+}

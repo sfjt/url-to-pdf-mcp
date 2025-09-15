@@ -1,0 +1,11 @@
+## Code Style
+- TypeScript
+  - ES modules
+  - Destructure imports when possible (e.g., import { foo } from "bar")
+- Formatting
+  - 2-space indentation
+  - Double quotes (")
+  - Semicolons (;) not required unless necessary
+- Files
+  - Kebab case (e.g., file-name.ts)
+  - Plece test files alongside source files. Use the suffix `.test.ts(x)`
